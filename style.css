@@ -58,7 +58,7 @@ nav{
 .btn-primary{background:var(--accent);color:var(--paper);}
 .btn-secondary{border-color:var(--mercury-line);color:var(--ink-soft);transition:border-color 0.15s ease, color 0.15s ease;}
 .btn-secondary:hover{border-color:var(--accent);color:var(--accent);}
-.hero-portrait{position:relative;z-index:1;display:flex;justify-content:center;align-self:flex-start;margin-top:-24px;}
+.hero-portrait{position:relative;z-index:1;display:flex;justify-content:center;align-self:flex-start;margin-top:-10px;}
 .portrait-frame{
   width:270px;height:330px;
   display:flex;align-items:center;justify-content:center;
